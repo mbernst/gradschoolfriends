@@ -1,0 +1,22 @@
+# Site settings
+title: Historia
+description: Where were they when?
+baseurl: "/gradschoolfriends"
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  work:
+    output: true
+    permalink: /:name
+emptyArray: []
+#  prototype:
+#    output: true#
+#    permalink: /:name

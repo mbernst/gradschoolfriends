@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Who did your advisor know in grad school?"
+description: A data dive on graduation data
+---
+
+{%- include hero.html -%}
+
+{%- assign people = site.data.cohort | sort: 'gradyear' -%}
+
+<div class="gallery container">
+  <div class="col-xs-12-xs col-sm-12 col-md-12 col-lg-12 col-xl-12" style="padding-bottom: 2em;">
+    <p>This list is indexed by graduation year. Where papers in our dataset indicate publications during graduate school, we use it to include people in the years before their graduation as well.</p>
+  </div>
+
+  {%- for year in (1965..2020) -%}
+    <div class="col-xs-12-xs col-sm-12 col-md-12 col-lg-12 col-xl-12" style="padding-bottom: 2em;">
+      <h2 class="gallery__title">{{ year }}</h2>
+      {%- for person in people -%}
+        {%- if person.firstyear <= year and person.gradyear >= year -%}
+        <div class="paper">
+          <div class="row">
+            <div class="col-md-4">
+              <p class="gallery__description">{{ person.name }}</p>
+              <div class="gallery__note">
+                <p>
+                {%- assign years_before = person.gradyear | minus: year -%}
+                {%- if years_before == 0 -%}
+                  Graduated
+                {%- elsif years_before == 1 -%}
+                  1 year before graduating
+                {%- else -%}
+                  {{ years_before }} years before graduating
+                {%- endif -%}
+                </p>
+              </div>
+            </div>
+            <div class="col-md-8 gallery__note">
+              {%- for paperyear in person.papersbyyear -%}
+                {%- assign intyear = paperyear[0] | to_integer -%}
+                {%- if intyear == year -%}
+                  {%- assign paper = paperyear[1][0] -%}
+                  <p>{{ paper.title }}<br/>
+                  {%- assign percentile = paper.conferencePercentile | round -%}
+                  {%- if percentile == 100 -%}
+                    {%- assign percentile = 99 -%}
+                  {%- endif -%}
+                  {%- case percentile -%}
+                    {%- when 1, 21, 31, 41, 51, 61, 71, 81, 91 -%}
+                      {{percentile}}st
+                    {%- when 2, 22, 32, 42, 52, 62, 72, 82, 92 -%}
+                      {{percentile}}nd
+                    {%- when 3, 23, 33, 43, 53, 63, 73, 83, 93 -%}
+                      {{percentile}}rd
+                    {%- else -%}
+                      {{percentile}}th
+                  {%- endcase -%}
+                  &nbsp;percentile in {{ paper.venue }} {{ paper.year }}
+                  </p>
+                {%- endif -%}
+              {%- endfor -%}
+            </div>
+          </div>
+
+
+        </div>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+  {%- endfor -%}
+</div>

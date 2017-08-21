@@ -1,0 +1,24 @@
+.work {
+  &__title {
+    color: $header-color;
+  }
+
+  &__description {
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-style: italic;
+    color: $header-color;
+  }
+
+  &__image {
+    float: left;
+    width: 100%;
+    margin-bottom: 2rem;
+    @include media-breakpoint-up(md) {
+      width: 50%;
+      margin-right: 2rem;
+      margin-bottom: 1rem;
+    }
+  }
+}

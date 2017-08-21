@@ -6,7 +6,7 @@ description: A data dive on graduation data
 
 {%- include hero.html -%}
 
-{%- assign people = site.data.cohort | sort: 'gradyear' -%}
+{%- assign people = site.data.cohort | sort: 'name' -%}
 
 <div class="gallery container">
   <div class="col-xs-12-xs col-sm-12 col-md-12 col-lg-12 col-xl-12" style="padding-bottom: 2em;">
@@ -17,53 +17,49 @@ description: A data dive on graduation data
     <div class="col-xs-12-xs col-sm-12 col-md-12 col-lg-12 col-xl-12" style="padding-bottom: 2em;">
       <h2 class="gallery__title">{{ year }}</h2>
       {%- for person in people -%}
-        {%- if person.firstyear <= year and person.gradyear >= year -%}
-        <div class="paper">
-          <div class="row">
-            <div class="col-md-4">
-              <p class="gallery__description">{{ person.name }}</p>
-              <div class="gallery__note">
-                <p>
-                {%- assign years_before = person.gradyear | minus: year -%}
-                {%- if years_before == 0 -%}
-                  Graduated
-                {%- elsif years_before == 1 -%}
-                  1 year before graduating
-                {%- else -%}
-                  {{ years_before }} years before graduating
-                {%- endif -%}
-                </p>
+        {%- if person.gradyear != "" -%}
+          {%- assign gradyear = person.gradyear | to_integer -%}
+
+          {%- if gradyear == year -%}
+            {%- assign maxpub = person.papersbyyear[0][0] -%}
+            {%- assign maxpercentile = 0 -%}
+            {%- assign maxcites = 0 -%}
+
+            {%- for paperyear in person.papersbyyear -%}
+              {%- assign thisyear = paperyear[0] | to_integer -%}
+              {%- if thisyear <= gradyear -%}
+                {%- for paper in paperyear[1] -%}
+                  {%- assign percentile = paper.conferencePercentile | round: 5 -%}
+                  {%- if percentile == 100 -%}
+                    {%- assign percentile = 99.99999 -%}
+                  {%- endif -%}
+                  {%- assign cites = paper.cites | round -%}
+
+                  {%- if cites >= maxcites -%}
+                    {%- assign maxpub = paper -%}
+                    {%- assign maxpercentile = percentile -%}
+                    {%- assign maxcites = cites -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              {%- endif -%}
+            {%- endfor -%}
+
+            <div class="paper">
+              <div class="row">
+                <div class="col-md-4">
+                  <p class="gallery__description">{{ person.name }}</p>
+                </div>
+                <div class="col-md-8 gallery__note">
+                  {%- if maxcites != 0 -%}
+                    <p>{{ maxpub.title }}<br/>
+                    {{ maxpub.venue }} {{ maxpub.year }}</p>
+                  {%- else -%}
+                    <p>&nbsp;<br/>&nbsp;</p>
+                  {%- endif -%}
+                </div>
               </div>
             </div>
-            <div class="col-md-8 gallery__note">
-              {%- for paperyear in person.papersbyyear -%}
-                {%- assign intyear = paperyear[0] | to_integer -%}
-                {%- if intyear == year -%}
-                  {%- assign paper = paperyear[1][0] -%}
-                  <p>{{ paper.title }}<br/>
-                  {%- assign percentile = paper.conferencePercentile | round -%}
-                  {%- if percentile == 100 -%}
-                    {%- assign percentile = 99 -%}
-                  {%- endif -%}
-                  {%- case percentile -%}
-                    {%- when 1, 21, 31, 41, 51, 61, 71, 81, 91 -%}
-                      {{percentile}}st
-                    {%- when 2, 22, 32, 42, 52, 62, 72, 82, 92 -%}
-                      {{percentile}}nd
-                    {%- when 3, 23, 33, 43, 53, 63, 73, 83, 93 -%}
-                      {{percentile}}rd
-                    {%- else -%}
-                      {{percentile}}th
-                  {%- endcase -%}
-                  &nbsp;percentile in {{ paper.venue }} {{ paper.year }}
-                  </p>
-                {%- endif -%}
-              {%- endfor -%}
-            </div>
-          </div>
-
-
-        </div>
+          {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
     </div>

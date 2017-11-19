@@ -4748,6 +4748,330 @@
     {
         "firstyear": 1985,
         "gradyear": 1985,
+        "id": 2006133,
+        "name": "Daniel M. Russell",
+        "papersbyyear": {
+            "1993": [
+                {
+                    "cites": 307,
+                    "conferencePercentile": 99.0909090909091,
+                    "id": "bfde5190c5300e8b9b1c370efa8de96390144f96",
+                    "title": "The cost structure of sensemaking",
+                    "venue": "INTERCHI",
+                    "year": 1993
+                }
+            ],
+            "1998": [
+                {
+                    "cites": 2,
+                    "conferencePercentile": 81.0126582278481,
+                    "id": "8ae68f758cdc3c50607d28a36a405a840046fd29",
+                    "title": "User experience research group: understanding the complete user interaction",
+                    "venue": "SGCH",
+                    "year": 1998
+                },
+                {
+                    "cites": 11,
+                    "conferencePercentile": 76.15384615384615,
+                    "id": "abdaa4a56dad05e67f662e784c6dc2d5ff4962e8",
+                    "title": "The future of integrated design of ubiquitous computing in combined real & virtual worlds",
+                    "venue": "CHI Conference Summary",
+                    "year": 1998
+                },
+                {
+                    "cites": 0,
+                    "conferencePercentile": 30.37974683544304,
+                    "id": "d84335589f9ad13e9a9378d0bd50645c95610e2a",
+                    "title": "The ATG knowledge management technologies laboratory",
+                    "venue": "SGCH",
+                    "year": 1998
+                }
+            ],
+            "2000": [
+                {
+                    "cites": 20,
+                    "conferencePercentile": 86.45161290322581,
+                    "id": "bf8713f1884024a28bb90b1a093c85669a4e0fc7",
+                    "title": "A Design Pattern-based Video Summarization Technique: Moving from Low-Level Signals to High-Level Structure",
+                    "venue": "HICSS",
+                    "year": 2000
+                },
+                {
+                    "cites": 0,
+                    "conferencePercentile": 37.27272727272727,
+                    "id": "20c9e3cd6ac0925ffe220be7baefd14e98d9657d",
+                    "title": "Design brief: Xerox PARC",
+                    "venue": "Interactions",
+                    "year": 2000
+                }
+            ],
+            "2001": [
+                {
+                    "cites": 15,
+                    "conferencePercentile": 65.71428571428571,
+                    "id": "5a8582d466b7b12264ae727b611014edbe98e9b0",
+                    "title": "Sinusoidal visuomotor tracking: intermittent servo-control or coupled oscillations?",
+                    "venue": "Journal of motor behavior",
+                    "year": 2001
+                },
+                {
+                    "cites": 31,
+                    "conferencePercentile": 37.5,
+                    "id": "921db1a4ac05046bbcefa9e2e61f818707d75136",
+                    "title": "On the Design of Personal & Communal Large Information Scale Appliances",
+                    "venue": "UbiComp",
+                    "year": 2001
+                }
+            ],
+            "2002": [
+                {
+                    "cites": 55,
+                    "conferencePercentile": 60.0,
+                    "id": "8199a4d5f1e90b2fd305136d778c812d3bbc5be4",
+                    "title": "Social Aspects of Using Large Public Interactive Displays for Collaboration",
+                    "venue": "UbiComp",
+                    "year": 2002
+                }
+            ],
+            "2003": [
+                {
+                    "cites": 26,
+                    "conferencePercentile": 58.82352941176471,
+                    "id": "f3fb43a7ef02a22523907a86fa9bd6765d0655b5",
+                    "title": "Dealing with ghosts: Managing the user experience of autonomic computing",
+                    "venue": "IBM Systems Journal",
+                    "year": 2003
+                },
+                {
+                    "cites": 5,
+                    "conferencePercentile": 54.109589041095894,
+                    "id": "207df5f33c6e9c39a8cff8d7a90d38c24c6decf5",
+                    "title": "Synthesizing Evocative Imagery through Design Patterns",
+                    "venue": "HICSS",
+                    "year": 2003
+                },
+                {
+                    "cites": 3,
+                    "conferencePercentile": 27.77777777777778,
+                    "id": "d1ce794746338558853a9c727a148c2054cabf8b",
+                    "title": "Learning to see, seeing to learn: visual aspects of sensemaking",
+                    "venue": "Human Vision and Electronic Imaging",
+                    "year": 2003
+                }
+            ],
+            "2004": [
+                {
+                    "cites": 17,
+                    "conferencePercentile": 82.89760348583877,
+                    "id": "6704002ef99cc766aa9f9568383efba28ab754a4",
+                    "title": "The Use Patterns of Large, Interactive Display Surfaces: Case Studies of Media Design and Use for BlueBoard and MERBoard",
+                    "venue": "HICSS",
+                    "year": 2004
+                },
+                {
+                    "cites": 2,
+                    "conferencePercentile": 32.846715328467155,
+                    "id": "40d3a6e9d4fe9cc3816f41ad5846749d647bf7ce",
+                    "title": "IBM Almaden's user sciences & experience research lab",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2004
+                }
+            ],
+            "2005": [
+                {
+                    "cites": 39,
+                    "conferencePercentile": 84.91379310344827,
+                    "id": "31032740888fe77691ab63481b41458e7f1340b2",
+                    "title": "Building disappearing computers",
+                    "venue": "Commun. ACM",
+                    "year": 2005
+                },
+                {
+                    "cites": 1,
+                    "conferencePercentile": 9.740259740259742,
+                    "id": "d4192f215fd14a49845ea7ce8a53d0627c336f39",
+                    "title": "Large Visualizations for System Monitoring of Complex, Heterogeneous Systems",
+                    "venue": "INTERACT",
+                    "year": 2005
+                },
+                {
+                    "cites": 0,
+                    "conferencePercentile": 9.63855421686747,
+                    "id": "a3f45544a3b638df3d2b3638cad5884756d4d315",
+                    "title": "Minitrack Summary: Media Literacy-Reading and Writing Digital Forms",
+                    "venue": "HICSS",
+                    "year": 2005
+                }
+            ],
+            "2006": [
+                {
+                    "cites": 13,
+                    "conferencePercentile": 83.53846153846153,
+                    "id": "40453c37723eae84963895349dc294eec17e1d93",
+                    "title": "Being Literate with Large Document Collections: Observational Studies and Cost Structure Tradeoffs",
+                    "venue": "HICSS",
+                    "year": 2006
+                }
+            ],
+            "2007": [
+                {
+                    "cites": 13,
+                    "conferencePercentile": 82.9185520361991,
+                    "id": "4a2676b1568279db5b6c29b03c952b91c2a4be26",
+                    "title": "Assigned tasks are not the same as self-chosen Web search tasks",
+                    "venue": "HICSS",
+                    "year": 2007
+                },
+                {
+                    "cites": 3,
+                    "conferencePercentile": 38.297872340425535,
+                    "id": "0831966ac0997364d43ff709690eab16d769a674",
+                    "title": "How persistent and general is the contextual interference effect?",
+                    "venue": "Research quarterly for exercise and sport",
+                    "year": 2007
+                },
+                {
+                    "cites": 2,
+                    "conferencePercentile": 15.09433962264151,
+                    "id": "b84fdbb0080bc4e9965bba9f01df459ad7e6cd14",
+                    "title": "On No-KR tests in motor learning, retention and transfer.",
+                    "venue": "Human movement science",
+                    "year": 2007
+                }
+            ],
+            "2008": [
+                {
+                    "cites": 0,
+                    "conferencePercentile": 9.574468085106384,
+                    "id": "86ad994f12f7f14a684d2fe32b859d5bb4cc66c7",
+                    "title": "Sensemaking",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2008
+                }
+            ],
+            "2009": [
+                {
+                    "cites": 6,
+                    "conferencePercentile": 73.75,
+                    "id": "6be59ae117fe6bbcda44886655b5079c0d9b7d52",
+                    "title": "Task Behaviors During Web Search: The Difficulty of Assigning Labels",
+                    "venue": "HICSS",
+                    "year": 2009
+                },
+                {
+                    "cites": 4,
+                    "conferencePercentile": 64.21875,
+                    "id": "e266dc46bca8fffe22e4c56573e6a62f1d19800a",
+                    "title": "Retrospective Cued Recall: A Method for Accurately Recalling Previous User Behaviors",
+                    "venue": "HICSS",
+                    "year": 2009
+                },
+                {
+                    "cites": 3,
+                    "conferencePercentile": 47.19251336898396,
+                    "id": "6178b029e04ab27f23658e0f70f45aca3a1f50a9",
+                    "title": "Sensemaking workshop CHI 2009",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2009
+                }
+            ],
+            "2010": [
+                {
+                    "cites": 2,
+                    "conferencePercentile": 35.714285714285715,
+                    "id": "a316b3adefe755bff4871f09dc1cd4d5d23cabec",
+                    "title": "Leg asymmetries and coordination dynamics in walking.",
+                    "venue": "Journal of motor behavior",
+                    "year": 2010
+                }
+            ],
+            "2012": [
+                {
+                    "cites": 1,
+                    "conferencePercentile": 41.964285714285715,
+                    "id": "a6fac1a6b7407dfb060fbca041f206b2559f5357",
+                    "title": "What does it mean to be literate in the age of Google?",
+                    "venue": "IIiX",
+                    "year": 2012
+                }
+            ],
+            "2013": [
+                {
+                    "cites": 11,
+                    "conferencePercentile": 94.63986599664992,
+                    "id": "4b3bcadd1d847dac84810803647da1a12e046792",
+                    "title": "Will massive online open courses (moocs) change education?",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2013
+                }
+            ],
+            "2014": [
+                {
+                    "cites": 4,
+                    "conferencePercentile": 77.06422018348624,
+                    "id": "e0d1dad820125743351355294f774d2e6a1d2cb2",
+                    "title": "Walking at the preferred stride frequency maximizes local dynamic stability of knee motion.",
+                    "venue": "Journal of biomechanics",
+                    "year": 2014
+                },
+                {
+                    "cites": 1,
+                    "conferencePercentile": 44.375,
+                    "id": "2dd4f41d452aee7e11429d774319e0e4e695c6dc",
+                    "title": "Measuring learned skill behaviors post-MOOC",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2014
+                }
+            ],
+            "2015": [
+                {
+                    "cites": 1,
+                    "conferencePercentile": 59.45945945945946,
+                    "id": "6f4d878378eda3529a7ddbe4d3c16b3b4c826353",
+                    "title": "What Do You Need to Know to Use a Search Engine? Why We Still Need to Teach Research Skills",
+                    "venue": "AI Magazine",
+                    "year": 2015
+                },
+                {
+                    "cites": 0,
+                    "conferencePercentile": 18.53546910755149,
+                    "id": "7bb118837ea5aa7fc4c31a56fd1cca1184ee3079",
+                    "title": "Design for Searching & Finding",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2015
+                }
+            ],
+            "2016": [
+                {
+                    "cites": 0,
+                    "conferencePercentile": 31.3953488372093,
+                    "id": "9233bba50f1526f256825ca3201121b520a84441",
+                    "title": "Simple is Good: Observations of Visualization Use Amongst the Big Data Digerati",
+                    "venue": "AVI",
+                    "year": 2016
+                },
+                {
+                    "cites": 0,
+                    "conferencePercentile": 28.26086956521739,
+                    "id": "2ad4696537d19cc2901b2f15a4239b187d81da6f",
+                    "title": "Bracing the trunk and neck in young adults leads to a more aged-like gait.",
+                    "venue": "Gait & posture",
+                    "year": 2016
+                },
+                {
+                    "cites": 0,
+                    "conferencePercentile": 28.26086956521739,
+                    "id": "27d346962ae4e9ed477c470f9b2006ee2971c3ea",
+                    "title": "Walking at the preferred stride frequency minimizes muscle activity.",
+                    "venue": "Gait & posture",
+                    "year": 2016
+                }
+            ]
+        }
+    },
+    {
+        "firstyear": 1985,
+        "gradyear": 1985,
         "id": 1682346,
         "name": "Michel Beaudouin-Lafon",
         "papersbyyear": {
@@ -27441,6 +27765,180 @@
     },
     {
         "firstyear": 1995,
+        "gradyear": 1998,
+        "id": 1740889,
+        "name": "Katherine Isbister",
+        "papersbyyear": {
+            "1995": [
+                {
+                    "cites": 0,
+                    "conferencePercentile": 32.35294117647059,
+                    "id": "b20bbeef954d1cd6ece02b3b1531b43c24a6ae73",
+                    "title": "HCI students and internships",
+                    "venue": "SGCH",
+                    "year": 1995
+                }
+            ],
+            "2000": [
+                {
+                    "cites": 117,
+                    "conferencePercentile": 96.875,
+                    "id": "a441725082b7b2eae3ddbfbb62ba2f5fc02416c4",
+                    "title": "Consistency of personality in interactive characters: verbal cues, non-verbal cues, and user characteristics",
+                    "venue": "Int. J. Hum.-Comput. Stud.",
+                    "year": 2000
+                },
+                {
+                    "cites": 74,
+                    "conferencePercentile": 56.33802816901409,
+                    "id": "30632b3c6fd2003542a1db6ff8c1c4d4a8e79d53",
+                    "title": "Helper agent: designing an assistant for human-human interaction in a virtual meeting space",
+                    "venue": "CHI",
+                    "year": 2000
+                }
+            ],
+            "2001": [
+                {
+                    "cites": 2,
+                    "conferencePercentile": 17.293233082706767,
+                    "id": "83c51e83c5fc72117ba86fa4839eb59af6db3dc8",
+                    "title": "SageTalk: designing a tool for designing successful web-based social agents",
+                    "venue": "Agents",
+                    "year": 2001
+                }
+            ],
+            "2005": [
+                {
+                    "cites": 8,
+                    "conferencePercentile": 50.82781456953642,
+                    "id": "104d590d0f62ee90ed88a6599de3de26e0b8ca0c",
+                    "title": "Evaluating affective interfaces: innovative approaches",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2005
+                }
+            ],
+            "2006": [
+                {
+                    "cites": 63,
+                    "conferencePercentile": 75.82781456953643,
+                    "id": "bbd6bf4fb68f57500141f1276bcea266778b4714",
+                    "title": "The sensual evaluation instrument: developing an affective evaluation tool",
+                    "venue": "CHI",
+                    "year": 2006
+                }
+            ],
+            "2007": [
+                {
+                    "cites": 7,
+                    "conferencePercentile": 66.3594470046083,
+                    "id": "363e792063557fe06784429b8f28c23d531da940",
+                    "title": "Supple interfaces: designing and evaluating for richer human connections and experiences",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2007
+                },
+                {
+                    "cites": 25,
+                    "conferencePercentile": 41.17647058823529,
+                    "id": "41fe90c993f8757814b5d350d936387b9a4492a5",
+                    "title": "The sensual evaluation instrument: Developing a trans-cultural self-report measure of affect",
+                    "venue": "Int. J. Hum.-Comput. Stud.",
+                    "year": 2007
+                }
+            ],
+            "2009": [
+                {
+                    "cites": 24,
+                    "conferencePercentile": 48.175182481751825,
+                    "id": "53b8d606b6eed0fea19a307aa2460f176bc4fe89",
+                    "title": "On being supple: in search of rigor without rigidity in meeting new design and evaluation challenges for HCI practitioners",
+                    "venue": "CHI",
+                    "year": 2009
+                }
+            ],
+            "2010": [
+                {
+                    "cites": 27,
+                    "conferencePercentile": 58.25082508250825,
+                    "id": "2f1cb354beeb3ed96311e9429525d61f6955d26a",
+                    "title": "Designing games for learning: insights from conversations with designers",
+                    "venue": "CHI",
+                    "year": 2010
+                }
+            ],
+            "2011": [
+                {
+                    "cites": 17,
+                    "conferencePercentile": 95.96977329974811,
+                    "id": "7dc1f55c6d62220560362ffa5bba5b0df3af23e1",
+                    "title": "Wriggle: an exploration of emotional and social effects of movement",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2011
+                },
+                {
+                    "cites": 9,
+                    "conferencePercentile": 88.63636363636364,
+                    "id": "4608bb7c37690dae1782e63ac641a8d318c84ed4",
+                    "title": "Emotion and motion: games as inspiration for shaping the future of interface",
+                    "venue": "Interactions",
+                    "year": 2011
+                },
+                {
+                    "cites": 13,
+                    "conferencePercentile": 86.5079365079365,
+                    "id": "9ce90ec6c0ceded114d0b0df150a3a4ce7ee64dc",
+                    "title": "Is more movement better?: a controlled comparison of movement-based games",
+                    "venue": "FDG",
+                    "year": 2011
+                },
+                {
+                    "cites": 8,
+                    "conferencePercentile": 83.33333333333334,
+                    "id": "39abf3b4d8a2aeb51fe21a86e8496cefd314bbfe",
+                    "title": "Waggling the Form Baton: Analyzing Body-Movement-Based Design Patterns in Nintendo Wii Games, Toward Innovation of New Possibilities for Social and Emotional Experience",
+                    "venue": "Whole Body Interaction",
+                    "year": 2011
+                }
+            ],
+            "2012": [
+                {
+                    "cites": 13,
+                    "conferencePercentile": 83.9622641509434,
+                    "id": "a4b10e840d584e32d13686573a8efd4c71d0aefb",
+                    "title": "How to stop being a buzzkill: designing yamove!, a mobile tech mash-up to truly augment social play",
+                    "venue": "Mobile HCI",
+                    "year": 2012
+                },
+                {
+                    "cites": 6,
+                    "conferencePercentile": 82.35294117647058,
+                    "id": "649d94cfd1e6d29dfd10eca05db2f4d1b4e4ac83",
+                    "title": "Scoop!: a movement-based math game designed to reduce math anxiety",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2012
+                },
+                {
+                    "cites": 4,
+                    "conferencePercentile": 67.27272727272727,
+                    "id": "48110d88eed7096616b2b7bfafef5112ec4a76b6",
+                    "title": "Scoop!: using movement to reduce math anxiety and affect confidence",
+                    "venue": "FDG",
+                    "year": 2012
+                }
+            ],
+            "2015": [
+                {
+                    "cites": 13,
+                    "conferencePercentile": 97.42647058823529,
+                    "id": "ef579d3a1cfa3fcf49d4e580da311e03983f7a4d",
+                    "title": "Costumes as Game Controllers: An Exploration of Wearables to Suit Social Play",
+                    "venue": "Tangible and Embedded Interaction",
+                    "year": 2015
+                }
+            ]
+        }
+    },
+    {
+        "firstyear": 1995,
         "gradyear": 1997,
         "id": 2735374,
         "name": "Kori Inkpen Quinn",
@@ -35773,14 +36271,6 @@
                     "title": "Superimposing display space on workspace in the context of endoscopic surgery",
                     "venue": "CHI Extended Abstracts",
                     "year": 1999
-                },
-                {
-                    "cites": 5,
-                    "conferencePercentile": 63.20224719101124,
-                    "id": "3f3f482de601867c8d255792336daeb7832397cf",
-                    "title": "Superimposing display space on workspace in the context of endoscopic surgery",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 1999
                 }
             ],
             "2001": [
@@ -35791,25 +36281,9 @@
                     "title": "Supporting children's collaboration across handheld computers",
                     "venue": "CHI Extended Abstracts",
                     "year": 2001
-                },
-                {
-                    "cites": 36,
-                    "conferencePercentile": 91.86507936507937,
-                    "id": "45cea74cd7a682a95c03ec2cc87ba57a68580efc",
-                    "title": "Supporting children's collaboration across handheld computers",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2001
                 }
             ],
             "2002": [
-                {
-                    "cites": 85,
-                    "conferencePercentile": 99.53488372093024,
-                    "id": "34b24b6b62abbd2b3b6513fce08df55ab19df02e",
-                    "title": "False prophets: exploring hybrid board/video games",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2002
-                },
                 {
                     "cites": 85,
                     "conferencePercentile": 99.53488372093024,
@@ -35829,22 +36303,6 @@
                     "year": 2004
                 },
                 {
-                    "cites": 83,
-                    "conferencePercentile": 81.25,
-                    "id": "0d060221916c43b4f7e0f78fa5b4aee45d878fe3",
-                    "title": "Physiological indicators for the evaluation of co-located collaborative play",
-                    "venue": "CSCW",
-                    "year": 2004
-                },
-                {
-                    "cites": 10,
-                    "conferencePercentile": 62.77372262773723,
-                    "id": "c0a7d64b5aed72ae850bf0142e0e8b32509b406e",
-                    "title": "Objectively evaluating entertainment technology",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2004
-                },
-                {
                     "cites": 10,
                     "conferencePercentile": 62.77372262773723,
                     "id": "c0a7d64b5aed72ae850bf0142e0e8b32509b406e",
@@ -35854,14 +36312,6 @@
                 }
             ],
             "2005": [
-                {
-                    "cites": 11,
-                    "conferencePercentile": 60.099337748344375,
-                    "id": "328953e7c0cc99708169884d3d3966006d676ec7",
-                    "title": "Sticky widgets: pseudo-haptic widget enhancements for multi-monitor displays",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2005
-                },
                 {
                     "cites": 11,
                     "conferencePercentile": 60.099337748344375,
@@ -35881,22 +36331,6 @@
                     "year": 2006
                 },
                 {
-                    "cites": 167,
-                    "conferencePercentile": 87.5,
-                    "id": "90ff5007cc2eee1db3a8f3b38c1f96fd7272db4c",
-                    "title": "Using psychophysiological techniques to measure user experience with entertainment technologies",
-                    "venue": "Behaviour & IT",
-                    "year": 2006
-                },
-                {
-                    "cites": 126,
-                    "conferencePercentile": 85.43046357615894,
-                    "id": "3d7dcad2550dff43b7c6c8aab42c19044bd76d30",
-                    "title": "A continuous and objective evaluation of emotional experience with interactive play environments",
-                    "venue": "CHI",
-                    "year": 2006
-                },
-                {
                     "cites": 126,
                     "conferencePercentile": 85.43046357615894,
                     "id": "3d7dcad2550dff43b7c6c8aab42c19044bd76d30",
@@ -35913,25 +36347,9 @@
                     "title": "A fuzzy physiological approach for continuously modeling emotion during interaction with play technologies",
                     "venue": "Int. J. Hum.-Comput. Stud.",
                     "year": 2007
-                },
-                {
-                    "cites": 189,
-                    "conferencePercentile": 100.0,
-                    "id": "8a97bff51146b841aebd7c06a1937e18d426230a",
-                    "title": "A fuzzy physiological approach for continuously modeling emotion during interaction with play technologies",
-                    "venue": "Int. J. Hum.-Comput. Stud.",
-                    "year": 2007
                 }
             ],
             "2008": [
-                {
-                    "cites": 20,
-                    "conferencePercentile": 75.86206896551724,
-                    "id": "03834d0a637a65fc4de152ba1861b6630d113f5b",
-                    "title": "Perceptibility and utility of sticky targets",
-                    "venue": "Graphics Interface",
-                    "year": 2008
-                },
                 {
                     "cites": 20,
                     "conferencePercentile": 75.86206896551724,
@@ -35951,22 +36369,6 @@
                     "year": 2011
                 },
                 {
-                    "cites": 7,
-                    "conferencePercentile": 52.77777777777778,
-                    "id": "46f332fa533182801dee03a575aee77331376f91",
-                    "title": "Evaluation of emotional response to non-photorealistic images",
-                    "venue": "NPAR",
-                    "year": 2011
-                },
-                {
-                    "cites": 4,
-                    "conferencePercentile": 10.565110565110565,
-                    "id": "5b4dbc680bf895245499dfb1e0e4cf82eabbd176",
-                    "title": "The effects of intended use on target acquisition",
-                    "venue": "CHI",
-                    "year": 2011
-                },
-                {
                     "cites": 4,
                     "conferencePercentile": 10.565110565110565,
                     "id": "5b4dbc680bf895245499dfb1e0e4cf82eabbd176",
@@ -35976,14 +36378,6 @@
                 }
             ],
             "2012": [
-                {
-                    "cites": 4,
-                    "conferencePercentile": 63.46153846153846,
-                    "id": "6100fbab9dc9e9fa8d6387b91ac58bf3a15731e5",
-                    "title": "Turning off-the-shelf games into biofeedback games",
-                    "venue": "ASSETS",
-                    "year": 2012
-                },
                 {
                     "cites": 4,
                     "conferencePercentile": 63.46153846153846,
@@ -36001,297 +36395,9 @@
                     "title": "Games as neurofeedback training for children with FASD",
                     "venue": "IDC",
                     "year": 2013
-                },
-                {
-                    "cites": 13,
-                    "conferencePercentile": 91.91176470588235,
-                    "id": "151b941a7ca6b8bfeb66f58ffac7d6438f5d86df",
-                    "title": "Games as neurofeedback training for children with FASD",
-                    "venue": "IDC",
-                    "year": 2013
                 }
             ],
             "2015": [
-                {
-                    "cites": 1,
-                    "conferencePercentile": 67.88990825688074,
-                    "id": "22dd349e09065622a8ae0f2de5ed5daecdb4e5a8",
-                    "title": "Discouraging sedentary behaviors using interactive play",
-                    "venue": "Interactions",
-                    "year": 2015
-                },
-                {
-                    "cites": 1,
-                    "conferencePercentile": 67.88990825688074,
-                    "id": "22dd349e09065622a8ae0f2de5ed5daecdb4e5a8",
-                    "title": "Discouraging sedentary behaviors using interactive play",
-                    "venue": "Interactions",
-                    "year": 2015
-                }
-            ]
-        }
-    },
-    {
-        "firstyear": 1999,
-        "gradyear": 2005,
-        "id": 1788745,
-        "name": "Regan Lee Mandryk",
-        "papersbyyear": {
-            "1999": [
-                {
-                    "cites": 5,
-                    "conferencePercentile": 63.20224719101124,
-                    "id": "3f3f482de601867c8d255792336daeb7832397cf",
-                    "title": "Superimposing display space on workspace in the context of endoscopic surgery",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 1999
-                },
-                {
-                    "cites": 5,
-                    "conferencePercentile": 63.20224719101124,
-                    "id": "3f3f482de601867c8d255792336daeb7832397cf",
-                    "title": "Superimposing display space on workspace in the context of endoscopic surgery",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 1999
-                }
-            ],
-            "2001": [
-                {
-                    "cites": 36,
-                    "conferencePercentile": 91.86507936507937,
-                    "id": "45cea74cd7a682a95c03ec2cc87ba57a68580efc",
-                    "title": "Supporting children's collaboration across handheld computers",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2001
-                },
-                {
-                    "cites": 36,
-                    "conferencePercentile": 91.86507936507937,
-                    "id": "45cea74cd7a682a95c03ec2cc87ba57a68580efc",
-                    "title": "Supporting children's collaboration across handheld computers",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2001
-                }
-            ],
-            "2002": [
-                {
-                    "cites": 85,
-                    "conferencePercentile": 99.53488372093024,
-                    "id": "34b24b6b62abbd2b3b6513fce08df55ab19df02e",
-                    "title": "False prophets: exploring hybrid board/video games",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2002
-                },
-                {
-                    "cites": 85,
-                    "conferencePercentile": 99.53488372093024,
-                    "id": "34b24b6b62abbd2b3b6513fce08df55ab19df02e",
-                    "title": "False prophets: exploring hybrid board/video games",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2002
-                }
-            ],
-            "2004": [
-                {
-                    "cites": 83,
-                    "conferencePercentile": 81.25,
-                    "id": "0d060221916c43b4f7e0f78fa5b4aee45d878fe3",
-                    "title": "Physiological indicators for the evaluation of co-located collaborative play",
-                    "venue": "CSCW",
-                    "year": 2004
-                },
-                {
-                    "cites": 83,
-                    "conferencePercentile": 81.25,
-                    "id": "0d060221916c43b4f7e0f78fa5b4aee45d878fe3",
-                    "title": "Physiological indicators for the evaluation of co-located collaborative play",
-                    "venue": "CSCW",
-                    "year": 2004
-                },
-                {
-                    "cites": 10,
-                    "conferencePercentile": 62.77372262773723,
-                    "id": "c0a7d64b5aed72ae850bf0142e0e8b32509b406e",
-                    "title": "Objectively evaluating entertainment technology",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2004
-                },
-                {
-                    "cites": 10,
-                    "conferencePercentile": 62.77372262773723,
-                    "id": "c0a7d64b5aed72ae850bf0142e0e8b32509b406e",
-                    "title": "Objectively evaluating entertainment technology",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2004
-                }
-            ],
-            "2005": [
-                {
-                    "cites": 11,
-                    "conferencePercentile": 60.099337748344375,
-                    "id": "328953e7c0cc99708169884d3d3966006d676ec7",
-                    "title": "Sticky widgets: pseudo-haptic widget enhancements for multi-monitor displays",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2005
-                },
-                {
-                    "cites": 11,
-                    "conferencePercentile": 60.099337748344375,
-                    "id": "328953e7c0cc99708169884d3d3966006d676ec7",
-                    "title": "Sticky widgets: pseudo-haptic widget enhancements for multi-monitor displays",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2005
-                }
-            ],
-            "2006": [
-                {
-                    "cites": 167,
-                    "conferencePercentile": 87.5,
-                    "id": "90ff5007cc2eee1db3a8f3b38c1f96fd7272db4c",
-                    "title": "Using psychophysiological techniques to measure user experience with entertainment technologies",
-                    "venue": "Behaviour & IT",
-                    "year": 2006
-                },
-                {
-                    "cites": 167,
-                    "conferencePercentile": 87.5,
-                    "id": "90ff5007cc2eee1db3a8f3b38c1f96fd7272db4c",
-                    "title": "Using psychophysiological techniques to measure user experience with entertainment technologies",
-                    "venue": "Behaviour & IT",
-                    "year": 2006
-                },
-                {
-                    "cites": 126,
-                    "conferencePercentile": 85.43046357615894,
-                    "id": "3d7dcad2550dff43b7c6c8aab42c19044bd76d30",
-                    "title": "A continuous and objective evaluation of emotional experience with interactive play environments",
-                    "venue": "CHI",
-                    "year": 2006
-                },
-                {
-                    "cites": 126,
-                    "conferencePercentile": 85.43046357615894,
-                    "id": "3d7dcad2550dff43b7c6c8aab42c19044bd76d30",
-                    "title": "A continuous and objective evaluation of emotional experience with interactive play environments",
-                    "venue": "CHI",
-                    "year": 2006
-                }
-            ],
-            "2007": [
-                {
-                    "cites": 189,
-                    "conferencePercentile": 100.0,
-                    "id": "8a97bff51146b841aebd7c06a1937e18d426230a",
-                    "title": "A fuzzy physiological approach for continuously modeling emotion during interaction with play technologies",
-                    "venue": "Int. J. Hum.-Comput. Stud.",
-                    "year": 2007
-                },
-                {
-                    "cites": 189,
-                    "conferencePercentile": 100.0,
-                    "id": "8a97bff51146b841aebd7c06a1937e18d426230a",
-                    "title": "A fuzzy physiological approach for continuously modeling emotion during interaction with play technologies",
-                    "venue": "Int. J. Hum.-Comput. Stud.",
-                    "year": 2007
-                }
-            ],
-            "2008": [
-                {
-                    "cites": 20,
-                    "conferencePercentile": 75.86206896551724,
-                    "id": "03834d0a637a65fc4de152ba1861b6630d113f5b",
-                    "title": "Perceptibility and utility of sticky targets",
-                    "venue": "Graphics Interface",
-                    "year": 2008
-                },
-                {
-                    "cites": 20,
-                    "conferencePercentile": 75.86206896551724,
-                    "id": "03834d0a637a65fc4de152ba1861b6630d113f5b",
-                    "title": "Perceptibility and utility of sticky targets",
-                    "venue": "Graphics Interface",
-                    "year": 2008
-                }
-            ],
-            "2011": [
-                {
-                    "cites": 7,
-                    "conferencePercentile": 52.77777777777778,
-                    "id": "46f332fa533182801dee03a575aee77331376f91",
-                    "title": "Evaluation of emotional response to non-photorealistic images",
-                    "venue": "NPAR",
-                    "year": 2011
-                },
-                {
-                    "cites": 7,
-                    "conferencePercentile": 52.77777777777778,
-                    "id": "46f332fa533182801dee03a575aee77331376f91",
-                    "title": "Evaluation of emotional response to non-photorealistic images",
-                    "venue": "NPAR",
-                    "year": 2011
-                },
-                {
-                    "cites": 4,
-                    "conferencePercentile": 10.565110565110565,
-                    "id": "5b4dbc680bf895245499dfb1e0e4cf82eabbd176",
-                    "title": "The effects of intended use on target acquisition",
-                    "venue": "CHI",
-                    "year": 2011
-                },
-                {
-                    "cites": 4,
-                    "conferencePercentile": 10.565110565110565,
-                    "id": "5b4dbc680bf895245499dfb1e0e4cf82eabbd176",
-                    "title": "The effects of intended use on target acquisition",
-                    "venue": "CHI",
-                    "year": 2011
-                }
-            ],
-            "2012": [
-                {
-                    "cites": 4,
-                    "conferencePercentile": 63.46153846153846,
-                    "id": "6100fbab9dc9e9fa8d6387b91ac58bf3a15731e5",
-                    "title": "Turning off-the-shelf games into biofeedback games",
-                    "venue": "ASSETS",
-                    "year": 2012
-                },
-                {
-                    "cites": 4,
-                    "conferencePercentile": 63.46153846153846,
-                    "id": "6100fbab9dc9e9fa8d6387b91ac58bf3a15731e5",
-                    "title": "Turning off-the-shelf games into biofeedback games",
-                    "venue": "ASSETS",
-                    "year": 2012
-                }
-            ],
-            "2013": [
-                {
-                    "cites": 13,
-                    "conferencePercentile": 91.91176470588235,
-                    "id": "151b941a7ca6b8bfeb66f58ffac7d6438f5d86df",
-                    "title": "Games as neurofeedback training for children with FASD",
-                    "venue": "IDC",
-                    "year": 2013
-                },
-                {
-                    "cites": 13,
-                    "conferencePercentile": 91.91176470588235,
-                    "id": "151b941a7ca6b8bfeb66f58ffac7d6438f5d86df",
-                    "title": "Games as neurofeedback training for children with FASD",
-                    "venue": "IDC",
-                    "year": 2013
-                }
-            ],
-            "2015": [
-                {
-                    "cites": 1,
-                    "conferencePercentile": 67.88990825688074,
-                    "id": "22dd349e09065622a8ae0f2de5ed5daecdb4e5a8",
-                    "title": "Discouraging sedentary behaviors using interactive play",
-                    "venue": "Interactions",
-                    "year": 2015
-                },
                 {
                     "cites": 1,
                     "conferencePercentile": 67.88990825688074,
@@ -39016,166 +39122,6 @@
                     "id": "5a42d100219f2f4c542ee0743883d9355fb486ae",
                     "title": "EVHomeShifter: evaluating intelligent techniques for using electrical vehicle batteries to shift when homes draw energy from the grid",
                     "venue": "UbiComp",
-                    "year": 2015
-                }
-            ]
-        }
-    },
-    {
-        "firstyear": 2001,
-        "gradyear": 2001,
-        "id": 1805040,
-        "name": "Amy Voida",
-        "papersbyyear": {
-            "2002": [
-                {
-                    "cites": 61,
-                    "conferencePercentile": 51.63934426229508,
-                    "id": "211b93310e22d391e64e677a9bc9e73aaa20e6ae",
-                    "title": "When conventions collide: the tensions of instant messaging attributed",
-                    "venue": "CHI",
-                    "year": 2002
-                }
-            ],
-            "2004": [
-                {
-                    "cites": 19,
-                    "conferencePercentile": 75.91240875912408,
-                    "id": "1ba0432951deb15e23f21c472a93006e0d27aa6c",
-                    "title": "Interviewing over instant messaging",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2004
-                }
-            ],
-            "2005": [
-                {
-                    "cites": 91,
-                    "conferencePercentile": 77.71739130434783,
-                    "id": "66656f5694e4f029c8a749ccda4c9c21e079d80c",
-                    "title": "Listening in: practices surrounding iTunes music sharing",
-                    "venue": "CHI",
-                    "year": 2005
-                },
-                {
-                    "cites": 16,
-                    "conferencePercentile": 70.19867549668875,
-                    "id": "c2802597cf6543b7e1e79f73f1a7e29808276c0c",
-                    "title": "Conveying user values between families and designers",
-                    "venue": "CHI Extended Abstracts",
-                    "year": 2005
-                },
-                {
-                    "cites": 29,
-                    "conferencePercentile": 33.69565217391305,
-                    "id": "6035ae57b4985d74d0c6afe75fcc145883619b18",
-                    "title": "Six themes of the communicative appropriation of photographic images",
-                    "venue": "CHI",
-                    "year": 2005
-                }
-            ],
-            "2006": [
-                {
-                    "cites": 1,
-                    "conferencePercentile": 1.6129032258064515,
-                    "id": "1f5fb960d7c5717002a038615eb4bace74de64ff",
-                    "title": "Challenges in the analysis of multimodal messaging",
-                    "venue": "CSCW",
-                    "year": 2006
-                }
-            ],
-            "2008": [
-                {
-                    "cites": 19,
-                    "conferencePercentile": 45.93023255813954,
-                    "id": "038136834eb000cef97bfd0c7c2357d32655efc6",
-                    "title": "Asymmetry in media spaces",
-                    "venue": "CSCW",
-                    "year": 2008
-                }
-            ],
-            "2009": [
-                {
-                    "cites": 61,
-                    "conferencePercentile": 86.86131386861314,
-                    "id": "5f52a7bec172bef99d369eb8f5a5cc5908e20ccb",
-                    "title": "Wii all play: the console game as a computational meeting place",
-                    "venue": "CHI",
-                    "year": 2009
-                }
-            ],
-            "2010": [
-                {
-                    "cites": 25,
-                    "conferencePercentile": 58.620689655172406,
-                    "id": "7fe9d943a72daff7545e3186be0e272df1df7f8b",
-                    "title": "The individual and the group in console gaming",
-                    "venue": "CSCW",
-                    "year": 2010
-                }
-            ],
-            "2011": [
-                {
-                    "cites": 6,
-                    "conferencePercentile": 82.95454545454545,
-                    "id": "87f1df109edcc93242100b779e3bb5c4f4cacac4",
-                    "title": "Shapeshifters in the voluntary sector: exploring the human-centered-computing challenges of nonprofit organizations",
-                    "venue": "Interactions",
-                    "year": 2011
-                },
-                {
-                    "cites": 32,
-                    "conferencePercentile": 75.30712530712532,
-                    "id": "55f9c25ed81fbc92cade64757154c8e9500957bb",
-                    "title": "Homebrew databases: complexities of everyday information management in nonprofit organizations",
-                    "venue": "CHI",
-                    "year": 2011
-                }
-            ],
-            "2012": [
-                {
-                    "cites": 29,
-                    "conferencePercentile": 73.02452316076294,
-                    "id": "0060c6c993cd0e07f6386d3b3bb3bb0f19360ba0",
-                    "title": "Bridging between organizations and the public: volunteer coordinators' uneasy relationship with social computing",
-                    "venue": "CHI",
-                    "year": 2012
-                },
-                {
-                    "cites": 3,
-                    "conferencePercentile": 10.217983651226158,
-                    "id": "28ca764eed2b7506fd1d17d7aabc67be533f32f2",
-                    "title": "Cross-cutting faultlines of location and shared identity in the intergroup cooperation of partially distributed groups",
-                    "venue": "CHI",
-                    "year": 2012
-                }
-            ],
-            "2013": [
-                {
-                    "cites": 18,
-                    "conferencePercentile": 64.58333333333334,
-                    "id": "08ba5959d5867fce0f4088d6dd42e28f85568c0f",
-                    "title": "Turbulence in the clouds: challenges of cloud-based information work",
-                    "venue": "CHI",
-                    "year": 2013
-                }
-            ],
-            "2014": [
-                {
-                    "cites": 13,
-                    "conferencePercentile": 62.98701298701299,
-                    "id": "2264779a3596a2a4bcda43004d014c7510ccac00",
-                    "title": "Shared values/conflicting logics: working around e-government systems",
-                    "venue": "CHI",
-                    "year": 2014
-                }
-            ],
-            "2015": [
-                {
-                    "cites": 10,
-                    "conferencePercentile": 68.75,
-                    "id": "06667a064d85505b293a73c87c60f04df5380d6c",
-                    "title": "(Infra)structures of Volunteering",
-                    "venue": "CSCW",
                     "year": 2015
                 }
             ]
@@ -43375,6 +43321,166 @@
                     "title": "An Integrated System for Superharmonic Contrast-Enhanced Ultrasound Imaging: Design and Intravascular Phantom Imaging Study",
                     "venue": "IEEE Trans. Biomed. Engineering",
                     "year": 2016
+                }
+            ]
+        }
+    },
+    {
+        "firstyear": 2002,
+        "gradyear": 2008,
+        "id": 1805040,
+        "name": "Amy Voida",
+        "papersbyyear": {
+            "2002": [
+                {
+                    "cites": 61,
+                    "conferencePercentile": 51.63934426229508,
+                    "id": "211b93310e22d391e64e677a9bc9e73aaa20e6ae",
+                    "title": "When conventions collide: the tensions of instant messaging attributed",
+                    "venue": "CHI",
+                    "year": 2002
+                }
+            ],
+            "2004": [
+                {
+                    "cites": 19,
+                    "conferencePercentile": 75.91240875912408,
+                    "id": "1ba0432951deb15e23f21c472a93006e0d27aa6c",
+                    "title": "Interviewing over instant messaging",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2004
+                }
+            ],
+            "2005": [
+                {
+                    "cites": 91,
+                    "conferencePercentile": 77.71739130434783,
+                    "id": "66656f5694e4f029c8a749ccda4c9c21e079d80c",
+                    "title": "Listening in: practices surrounding iTunes music sharing",
+                    "venue": "CHI",
+                    "year": 2005
+                },
+                {
+                    "cites": 16,
+                    "conferencePercentile": 70.19867549668875,
+                    "id": "c2802597cf6543b7e1e79f73f1a7e29808276c0c",
+                    "title": "Conveying user values between families and designers",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2005
+                },
+                {
+                    "cites": 29,
+                    "conferencePercentile": 33.69565217391305,
+                    "id": "6035ae57b4985d74d0c6afe75fcc145883619b18",
+                    "title": "Six themes of the communicative appropriation of photographic images",
+                    "venue": "CHI",
+                    "year": 2005
+                }
+            ],
+            "2006": [
+                {
+                    "cites": 1,
+                    "conferencePercentile": 1.6129032258064515,
+                    "id": "1f5fb960d7c5717002a038615eb4bace74de64ff",
+                    "title": "Challenges in the analysis of multimodal messaging",
+                    "venue": "CSCW",
+                    "year": 2006
+                }
+            ],
+            "2008": [
+                {
+                    "cites": 19,
+                    "conferencePercentile": 45.93023255813954,
+                    "id": "038136834eb000cef97bfd0c7c2357d32655efc6",
+                    "title": "Asymmetry in media spaces",
+                    "venue": "CSCW",
+                    "year": 2008
+                }
+            ],
+            "2009": [
+                {
+                    "cites": 61,
+                    "conferencePercentile": 86.86131386861314,
+                    "id": "5f52a7bec172bef99d369eb8f5a5cc5908e20ccb",
+                    "title": "Wii all play: the console game as a computational meeting place",
+                    "venue": "CHI",
+                    "year": 2009
+                }
+            ],
+            "2010": [
+                {
+                    "cites": 25,
+                    "conferencePercentile": 58.620689655172406,
+                    "id": "7fe9d943a72daff7545e3186be0e272df1df7f8b",
+                    "title": "The individual and the group in console gaming",
+                    "venue": "CSCW",
+                    "year": 2010
+                }
+            ],
+            "2011": [
+                {
+                    "cites": 6,
+                    "conferencePercentile": 82.95454545454545,
+                    "id": "87f1df109edcc93242100b779e3bb5c4f4cacac4",
+                    "title": "Shapeshifters in the voluntary sector: exploring the human-centered-computing challenges of nonprofit organizations",
+                    "venue": "Interactions",
+                    "year": 2011
+                },
+                {
+                    "cites": 32,
+                    "conferencePercentile": 75.30712530712532,
+                    "id": "55f9c25ed81fbc92cade64757154c8e9500957bb",
+                    "title": "Homebrew databases: complexities of everyday information management in nonprofit organizations",
+                    "venue": "CHI",
+                    "year": 2011
+                }
+            ],
+            "2012": [
+                {
+                    "cites": 29,
+                    "conferencePercentile": 73.02452316076294,
+                    "id": "0060c6c993cd0e07f6386d3b3bb3bb0f19360ba0",
+                    "title": "Bridging between organizations and the public: volunteer coordinators' uneasy relationship with social computing",
+                    "venue": "CHI",
+                    "year": 2012
+                },
+                {
+                    "cites": 3,
+                    "conferencePercentile": 10.217983651226158,
+                    "id": "28ca764eed2b7506fd1d17d7aabc67be533f32f2",
+                    "title": "Cross-cutting faultlines of location and shared identity in the intergroup cooperation of partially distributed groups",
+                    "venue": "CHI",
+                    "year": 2012
+                }
+            ],
+            "2013": [
+                {
+                    "cites": 18,
+                    "conferencePercentile": 64.58333333333334,
+                    "id": "08ba5959d5867fce0f4088d6dd42e28f85568c0f",
+                    "title": "Turbulence in the clouds: challenges of cloud-based information work",
+                    "venue": "CHI",
+                    "year": 2013
+                }
+            ],
+            "2014": [
+                {
+                    "cites": 13,
+                    "conferencePercentile": 62.98701298701299,
+                    "id": "2264779a3596a2a4bcda43004d014c7510ccac00",
+                    "title": "Shared values/conflicting logics: working around e-government systems",
+                    "venue": "CHI",
+                    "year": 2014
+                }
+            ],
+            "2015": [
+                {
+                    "cites": 10,
+                    "conferencePercentile": 68.75,
+                    "id": "06667a064d85505b293a73c87c60f04df5380d6c",
+                    "title": "(Infra)structures of Volunteering",
+                    "venue": "CSCW",
+                    "year": 2015
                 }
             ]
         }

@@ -48514,6 +48514,70 @@
         }
     },
     {
+        "firstyear": 2003,
+        "gradyear": 2012,
+        "id": 1807904,
+        "name": "Chen-Hsiang Yu",
+        "papersbyyear": {
+            "2003": [
+                {
+                    "cites": 15,
+                    "conferencePercentile": 78.34224598930481,
+                    "id": "0cf1958ed84815876116b8772dd0291b2dcf9946",
+                    "title": "Assessment of placental fractional moving blood volume using quantitative three-dimensional power doppler ultrasound.",
+                    "venue": "Ultrasound in medicine & biology",
+                    "year": 2003
+                }
+            ],
+            "2010": [
+                {
+                    "cites": 17,
+                    "conferencePercentile": 40.92409240924093,
+                    "id": "a7e65f7104cb0e9d706de82e06e53d950a06407d",
+                    "title": "Enhancing web page readability for non-native readers",
+                    "venue": "CHI",
+                    "year": 2010
+                }
+            ],
+            "2011": [
+                {
+                    "cites": 3,
+                    "conferencePercentile": 55.41561712846348,
+                    "id": "3775db344d0d678ad6e4f4354c866b166ad632e8",
+                    "title": "Enhancing mobile browsing and reading",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2011
+                },
+                {
+                    "cites": 2,
+                    "conferencePercentile": 45.08816120906801,
+                    "id": "0548d86eb93b66ee87ba45ce1cfd299f53910a48",
+                    "title": "Enhancing blog readability for non-native english readers in the enterprise",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2011
+                }
+            ],
+            "2012": [
+                {
+                    "cites": 1,
+                    "conferencePercentile": 35.97285067873303,
+                    "id": "5ef4816801b7c4449a9b0e864930e02e69690b85",
+                    "title": "Enhancing web page skimmability",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2012
+                },
+                {
+                    "cites": 1,
+                    "conferencePercentile": 35.97285067873303,
+                    "id": "f0181a160c50fc91f1abdd41e46acf5e109e7557",
+                    "title": "Mobile continuous reading",
+                    "venue": "CHI Extended Abstracts",
+                    "year": 2012
+                }
+            ]
+        }
+    },
+    {
         "firstyear": 2004,
         "gradyear": 2010,
         "id": 3151023,
@@ -63830,6 +63894,108 @@
                     "id": "1713fd2baa875035eae5b731a7e44c188f0505e2",
                     "title": "From Breakage to Icebreaker: Inspiration for Designing Technological Support for Human-Human Interaction",
                     "venue": "Conference on Designing Interactive Systems",
+                    "year": 2016
+                }
+            ]
+        }
+    },
+    {
+        "firstyear": 2008,
+        "gradyear": 2012,
+        "id": 1770919,
+        "name": "Scott Bateman",
+        "papersbyyear": {
+            "2008": [
+                {
+                    "cites": 82,
+                    "conferencePercentile": 100.0,
+                    "id": "3106b700ebba2d30c575c2d58a2b084ca9eae94d",
+                    "title": "Seeing things in the clouds: the effect of visual features on tag cloud selections",
+                    "venue": "Hypertext",
+                    "year": 2008
+                }
+            ],
+            "2009": [
+                {
+                    "cites": 6,
+                    "conferencePercentile": 64.0,
+                    "id": "42a4c2b927df2db151a51779f8abc8e2476d7e36",
+                    "title": "Interactive usability instrumentation",
+                    "venue": "EICS",
+                    "year": 2009
+                },
+                {
+                    "cites": 2,
+                    "conferencePercentile": 24.074074074074073,
+                    "id": "42ebf6e15517299f888974783f4e7d0daded598c",
+                    "title": "Personalized retrieval in social bookmarking",
+                    "venue": "GROUP",
+                    "year": 2009
+                }
+            ],
+            "2010": [
+                {
+                    "cites": 68,
+                    "conferencePercentile": 86.63366336633663,
+                    "id": "5c1008ce672d709d41cbcce36d1e49ec08eb8c03",
+                    "title": "Useful junk?: the effects of visual embellishment on comprehension and memorability of charts",
+                    "venue": "CHI",
+                    "year": 2010
+                }
+            ],
+            "2011": [
+                {
+                    "cites": 14,
+                    "conferencePercentile": 85.71428571428571,
+                    "id": "dae0175282e178a5dd906e1a482c5f5fb79bb0fb",
+                    "title": "Effects of view, input device, and track width on video game driving",
+                    "venue": "Graphics Interface",
+                    "year": 2011
+                },
+                {
+                    "cites": 30,
+                    "conferencePercentile": 72.11302211302211,
+                    "id": "2ca23e56f776e971fb5517aead947ee54cf4ecb6",
+                    "title": "Target assistance for subtly balancing competitive play",
+                    "venue": "CHI",
+                    "year": 2011
+                }
+            ],
+            "2012": [
+                {
+                    "cites": 9,
+                    "conferencePercentile": 77.27272727272727,
+                    "id": "95e8cb531544f44b9da328c6c0d50686646d4b61",
+                    "title": "Analysis and comparison of target assistance techniques for relative ray-cast pointing",
+                    "venue": "Int. J. Hum.-Comput. Stud.",
+                    "year": 2012
+                },
+                {
+                    "cites": 24,
+                    "conferencePercentile": 67.57493188010899,
+                    "id": "66a2fca65fa8e3f1836ee46d2ac5f59e1980ee6d",
+                    "title": "The search dashboard: how reflection and comparison impact search behavior",
+                    "venue": "CHI",
+                    "year": 2012
+                }
+            ],
+            "2013": [
+                {
+                    "cites": 7,
+                    "conferencePercentile": 37.5886524822695,
+                    "id": "0010c7647f06017dc8ed929a40c6d24666175bae",
+                    "title": "Social navigation for loosely-coupled information seeking in tightly-knit groups using webwear",
+                    "venue": "CSCW",
+                    "year": 2013
+                }
+            ],
+            "2016": [
+                {
+                    "cites": 0,
+                    "conferencePercentile": 24.6031746031746,
+                    "id": "4c22c60fab5296308244163f64ec752d62c6c729",
+                    "title": "(The Lack of) Privacy Concerns with Sharing Web Activity at Work and the Implications for Collaborative Search",
+                    "venue": "CHIIR",
                     "year": 2016
                 }
             ]
